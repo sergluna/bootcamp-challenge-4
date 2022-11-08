@@ -12,3 +12,5 @@ To view my submission please review the index.html file. When the user visits th
 
 Please refer to the license in the repository.
 # Screenshot
+![image](https://user-images.githubusercontent.com/111019074/200460616-bf4d4a5b-fe0b-4e56-8219-298889d0fe30.png)
+
